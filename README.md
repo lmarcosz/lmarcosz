@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lmarcosz/)
 [![LinkEdin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-l-silva/)
 
-![Marcos Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmarcosz&show_icons=true&theme=highcontrast&bg_color=DEG,E76445,563D7C)
+![Marcos Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmarcosz&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcosz&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcosz&layout=compact&theme=tokyonight)
 
 ### Technologies
 <div style="display: inline_block"><br/>
