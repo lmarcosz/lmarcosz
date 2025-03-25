@@ -1,6 +1,6 @@
 ### Welcome to my profile👋
 
-- Hi! My name Marcos, I'm 24 and live nearby of São Paulo;
+- Hi! My name is Marcos, I'm 24 and live nearby of São Paulo;
 - Computer Science student;
 - Main interests: Back-end and Android development;
 - Currently, I've been learning Java and its technologies.
