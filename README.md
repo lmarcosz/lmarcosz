@@ -1,10 +1,10 @@
-### Welcome to my profile👋
+### Hi! My name is Marcos and welcome to my profile👋
 
-- Hi! My name is Marcos, I'm 24 and live nearby of São Paulo;
+- I'm 24 and live nearby of São Paulo;
 - Computer Science student;
 - Main interests: Back-end and Android development;
-- Currently, I've been learning Java and its technologies.
-### Contact
+- Currently, I've been learning about Java and its technologies.
+### Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-l-silva/)
 
 ### Tech Stack
